@@ -1,7 +1,3 @@
-Here’s a clean and professional description for your GitHub repository:
-
----
-
 # CRUD Application
 
 A simple and efficient **CRUD (Create, Read, Update, Delete)** web application developed to demonstrate fundamental database operations. This project is built with a focus on practical implementation of CRUD functionalities, user-friendly design, and seamless data handling.
