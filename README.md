@@ -38,7 +38,3 @@ This project was developed as part of **Corizo Internship** to showcase CRUD fun
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Feel free to adjust this to fit your specific project needs! 😊
